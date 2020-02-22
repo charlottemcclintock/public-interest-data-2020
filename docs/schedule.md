@@ -14,6 +14,8 @@ Readings:
 Reference/Resource:
 * Garrett Grolemund and Hadley Wickham, [R for Data Science, Ch 1.4-1.6, Ch 4, Ch 5.1-5.6, 6, 8](https://r4ds.had.co.nz/index.html) 
 	- if you're new to R, these are well worth your time (and pretty short); primarily intended as a resource for while you're working with the data
+	
+Assignment (due 2/24 at noon): [Week 1 Assignment](https://datafordemocracy.github.io/public-interest-data-2020/week1-assignment.html)
 
 ### 2/24 Local Context/Past Work, Understanding our Data, Data Provenance and Processing
 
@@ -28,6 +30,7 @@ Readings:
 
 Reference/Resource:
 * Garrett Grolemund and Hadley Wickham, [R for Data Science, Ch 5.3-5.5, 5.7, 15, 16](https://r4ds.had.co.nz/index.html) 
+Assignment (due 3/2 at noon): [Week 2 Assignment](https://datafordemocracy.github.io/public-interest-data-2020/week2-assignment.html)
 
 ### 3/2 Local Context/Past Work, Understanding our Data, Algorithms and Data Science
 
@@ -39,6 +42,8 @@ Readings:
 
 Reference/Resource:
 * Garrett Grolemund and Hadley Wickham, [R for Data Science,  Ch 3, 7, 13](https://r4ds.had.co.nz/index.html) 
+
+Assignment (due 2/24): [Week 1 Assignment](https://datafordemocracy.github.io/public-interest-data-2020/week1-assignment.html)
 
 ### 3/9 Happy Spring Break!
 

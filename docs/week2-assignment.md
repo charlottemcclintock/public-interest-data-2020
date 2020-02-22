@@ -16,13 +16,13 @@ You can find your [variable assignments here](https://docs.google.com/spreadshee
 
 Everyone has been assigned multiple descriptor variables and outcome variables. Client ID, race, and gender are not assigned - everyone should use them in addition to their assigned variables to break out your data by relevant demographics. 
 
-*Challenge:* If you are already an R allstar, pick a finding from the 2018 report and try to replicate the table/graph/model with the 2020 data. Code from the 2018 report is available on the course Github in the 2018 repo. 
+*Challenge:* If you are already an R allstar, pick a finding from the 2019 report and try to replicate the table/graph/model with the 2020 data. Code from the 2019 report is available on the course Github in the 2019 repo. 
 
 ### What to submit: 
 
 * A short writeup (bulleted list, paragraph, etc.) of reflections, comments, or future directions after reading the 2018 report - include a few research questions sparked by reading the report.
 * An R script with your exploratory analysis code with your assigned variables - come prepared to chat about what you found!
 
-Send these to the *assignments* channel on Slack by noon on Monday, February 24.
+Send these to the *assignments* channel on Slack by noon on Monday, March 2nd.
 
 

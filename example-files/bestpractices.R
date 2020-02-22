@@ -95,8 +95,8 @@ ggplot(data, aes(x=variable_one, y=variable_two)) +
   geom_point(color="red") + 
   annotate("text", x=1, y=1, label="Example")
 ## or 
-df <- mutate(df, 
-             var = fct_recode(var, 
+df <- mutate(df,
+             var = fct_recode(var,
                               "New Name"="This Old Name",
                               "New Name"="That Old Name"))
 
@@ -141,3 +141,5 @@ save.image("imagename.Rdata")
 # .................................................................................
 
 ## Some code conventions and examples borrowed with gratitude to Professor Jon Kropko. 
+
+
